@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kTiOZru+evb9QwB4VM+mHZ1fXSRr7q9PMNTWkgZMPts=",
+  "Source": "TestTuya",
+  "BasePath": "_content/TestTuya",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
